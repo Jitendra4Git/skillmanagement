@@ -1,0 +1,7 @@
+com\nhs\skill\data\dao\EmployeeRepository.class
+com\nhs\skill\SkillManagementCore.class
+com\nhs\skill\data\domain\EmployeeSkill$EmployeeSkillBuilder.class
+com\nhs\skill\data\domain\Employee$EmployeeBuilder.class
+com\nhs\skill\data\domain\EmployeeSkill.class
+com\nhs\skill\configuration\SkillManagementDBConfig.class
+com\nhs\skill\data\domain\Employee.class
